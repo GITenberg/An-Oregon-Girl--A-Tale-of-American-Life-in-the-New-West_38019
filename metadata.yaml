@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '39202'
     url: http://www.gutenberg.org/2009/agents/39202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38019#An-Oregon-Girl--A-Tale-of-American-Life-in-the-New-West
 gutenberg_issued: '2011-11-15'
 gutenberg_type: Text
 identifiers:
